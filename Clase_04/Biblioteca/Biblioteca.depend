@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535982001 source:d:\alpuin schunk\biblioteca\alpuin.c
+
+1535982032 source:d:\alpuin schunk\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alpuin.h"
+
+1535982001 d:\alpuin schunk\biblioteca\alpuin.h
+

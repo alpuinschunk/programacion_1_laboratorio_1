@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540392141 source:c:\users\alumno\desktop\clase 18\archivol\main.c
+	<stdio.h>
+
+1540393634 source:d:\alpuin schunk\clase18\archivol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
